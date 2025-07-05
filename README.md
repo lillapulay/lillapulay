@@ -1,7 +1,7 @@
 # 👋 Hi there! 
 
 🌿 My name is Lilla. I'm a front-end developer with a love for the creation process and a strong interest in UX.  
-💻 I have over 3 years of experience in the field, primarily with React, along with some (~1 year) exposure to Angular.  
+💻 I have over 3 years of experience in the field, primarily with React, along with some (~1 year) exposure to Angular and Next.js.  
 🧹 I care about writing clean, maintainable code and truly understanding what I’m doing, while also imagining myself in the user’s shoes.  
 🚀 I aim to grow into a senior developer role where I can support more junior colleagues and help foster a healthy, collaborative team culture.  
 🤝 I thrive in cross-functional teams and value flexibility, clarity, and purpose — where time is used well and everyone is encouraged to do their best work, while still having fun.
@@ -23,7 +23,7 @@
 
 ✈️ Originally from Hungary, I’ve been living in the Netherlands since 2019  
 🎓 Former law & international studies grad turned frontend developer — because who likes life on easy mode, *amirite?*  
-🧳 After moving abroad, I survived a temp job that went against everything in my nature, pushed through two coding bootcamps, and landed my first dev job in early 2022  
+🧳 After moving abroad, I survived a temp job that went against everything in my nature, pushed through two coding bootcamps, and landed my first dev job in the beginning of 2022  
 🗣️ I enjoy learning languages — besides "compulsory" Dutch, Norwegian is my current pet project   
 😵‍💫 As a junior, I once wrote ~80 lines of code to position a close button on a modal, which the lead dev later replaced with two lines of CSS. I’m still not okay.
 
