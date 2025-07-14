@@ -1,7 +1,7 @@
 # 👋 Hi there! 
 
 🌿 My name is Lilla. I'm a front-end developer with a love for the creation process and a strong interest in UX.  
-💻 I have over 3 years of experience in the field, primarily with React, along with some (~1 year) exposure to Angular and Next.js.  
+💻 I have over 3 years of experience in the field, primarily with React, along with some exposure to Angular and Next.js.  
 🧹 I care about writing clean, maintainable code and truly understanding what I’m doing, while also imagining myself in the user’s shoes.  
 🚀 I aim to grow into a senior developer role where I can support more junior colleagues and help foster a healthy, collaborative team culture.  
 🤝 I thrive in cross-functional teams and value flexibility, clarity, and purpose — where time is used well and everyone is encouraged to do their best work, while still having fun.
