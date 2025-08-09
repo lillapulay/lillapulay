@@ -11,10 +11,11 @@
 
 ## 💻 What I’m up to
 
-🗺️ Working at [Esri Nederland](https://www.esri.nl/nl-nl/home) as an Engineer, building very *spatial* applications using mostly React, Vite, the [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/), and the [Calcite Design System](https://developers.arcgis.com/calcite-design-system/)  
-🐍 Learning Python, one slither at a time  
+🗺️ Working at [Esri Nederland](https://www.esri.nl/nl-nl/home), building very *spatial* applications using mostly React, Vite, the [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/), and the [Calcite Design System](https://developers.arcgis.com/calcite-design-system/)  
 🏗️ Rebuilding my portfolio with Next.js. Total overkill for a small site — so naturally, I’m doing my best to make it spiral out of control  
-🤔 Cooking up a side project idea with Angular — I really enjoyed working with this framework and want to dive deeper into its bells and whistles
+🤔 Working on some side projects to deepen my understanding of Next.js, Angular and whatever tools I encounter on the way
+📚 Started self-paced CS studies by (mostly) following [OSSU](https://cs.ossu.dev/#curriculum)
+🐍 Learning some Python, one slither at a time
 
 
 
