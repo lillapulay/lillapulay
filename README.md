@@ -1,20 +1,10 @@
 # 👋 Hi there! 
 
 🌿 My name is Lilla. I'm a front-end developer with a love for the creation process and a strong interest in UX.  
-💻 I have over 3 years of experience in the field, primarily with React, along with some exposure to Angular and Next.js.  
+💻 I have around 4 years of work experience in the field, primarily with React, along with some exposure to Angular, Next.js and now Vue as well.  
 🧹 I care about writing clean, maintainable code and truly understanding what I’m doing, while also imagining myself in the user’s shoes.  
 🚀 I aim to grow into a senior developer role where I can support more junior colleagues and help foster a healthy, collaborative team culture.  
 🤝 I thrive in cross-functional teams and value flexibility, clarity, and purpose — where time is used well and everyone is encouraged to do their best work, while still having fun.
-
-
-
-
-## 💻 What I’m up to
-
-🗺️ Working at [Esri Nederland](https://www.esri.nl/nl-nl/home), building very *spatial* applications using mostly React, Vite, the [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/), and the [Calcite Design System](https://developers.arcgis.com/calcite-design-system/)  
-🏗️ Rebuilding my portfolio with Next.js. Total overkill for a small site — so naturally, I’m doing my best to make it spiral out of control  
-🤔 Working on some side projects to deepen my understanding of Next.js, Angular and whatever tools I encounter on the way  
-
 
 
 
